@@ -8,4 +8,6 @@
 
 使用 `https://cdn.jsdelivr.net/gh` 转换图片地址进行访问，如下：
 
+* https://cdn.jsdelivr.net/gh/moyu-jun/resource/img/20210928150357.png
+
 ![](https://cdn.jsdelivr.net/gh/moyu-jun/resource/img/20210928150357.png)
