@@ -1,0 +1,15 @@
+{
+  "name": "推荐源",
+  "version": 2,
+  "sources": [
+    {"name": "量子资源", "url": "https://cj.lziapi.com/api.php/provide/vod"},
+    {"name": "红牛资源", "url": "https://www.hongniuzy2.com/api.php/provide/vod"},
+    {"name": "非凡影视", "url": "https://api.ffzyapi.com/api.php/provide/vod"},
+    {"name": "金鹰资源", "url": "https://jyzyapi.com/api.php/provide/vod"},
+    {"name": "无尽资源", "url": "https://api.wujinapi.com/api.php/provide/vod"}
+  ],
+  "liveSources": [
+    {"name": "国内直播(IPv6)", "url": "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u", "epg": "http://epg.51zmt.top:8000/e.xml"},
+    {"name": "国际直播", "url": "https://iptv-org.github.io/iptv/index.m3u"}
+  ]
+}
